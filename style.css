@@ -59,7 +59,6 @@ h1 {
 }
 
 .flex-item4 {
-    background: pink;
     margin: 10px;
     width: 400px;
     height: 190px;
@@ -68,6 +67,7 @@ h1 {
     background: linear-gradient(to bottom, pink, #9C6D5D);
     line-height: 30px;
     border: 2px groove rgb(214, 161, 161);
+    border-style: groove;
 }
 
 img {
